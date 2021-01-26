@@ -7,7 +7,12 @@
 
 import Foundation
 
-var landmarks: [Landmark] = load("landmarkData.json")
+var events: [Event] = load("eventsData.json")
+var eventsData: EventsData = load("realEventsData.json")
+
+var naonedEvents: [Event] {
+    return eventsData.records.map { $0.fields }
+}
 
 func load<T: Decodable>(_ filename: String) -> T {
     let data: Data
@@ -30,3 +35,4 @@ func load<T: Decodable>(_ filename: String) -> T {
         fatalError("Couldn't parse \(filename) as \(T.self):\n\(error)")
     }
 }
+

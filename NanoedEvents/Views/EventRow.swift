@@ -1,5 +1,5 @@
 //
-//  LandmarkRow.swift
+//  EventRow.swift
 //  NanoedEvents
 //
 //  Created by Jordan Rilassi on 21/01/2021.
@@ -7,26 +7,26 @@
 
 import SwiftUI
 
-struct LandmarkRow: View {
-    var landmark: Landmark
+struct EventRow: View {
+    var event: Event
     
     var body: some View {
         HStack {
-            landmark.image
+            event.image
                 .resizable()
                 .frame(width: 50, height: 50)
-            Text(landmark.name)
+            Text(event.name)
             
             Spacer()
         }
     }
 }
 
-struct LandmarkRow_Previews: PreviewProvider {
+struct EventRow_Previews: PreviewProvider {
     static var previews: some View {
         Group {
-            LandmarkRow(landmark: landmarks[0])
-            LandmarkRow(landmark: landmarks[1])
+            EventRow(event: events[0])
+            EventRow(event: events[1])
         }
         .previewLayout(.fixed(width: 300, height: 70))
 

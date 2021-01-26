@@ -1,0 +1,741 @@
+{
+    "nhits":3541,
+    "parameters":{
+        "dataset":"244400404_agenda-evenements-nantes-nantes-metropole",
+        "timezone":"UTC",
+        "rows":10,
+        "start":0,
+        "format":"json",
+        "facet":[
+            "emetteur",
+            "rubrique",
+            "lieu",
+            "ville",
+            "lieu_quartier"
+        ]
+    },
+    "records":[
+        {
+            "datasetid":"244400404_agenda-evenements-nantes-nantes-metropole",
+            "recordid":"9c1cac882e2fdaeb43127a7857a39920b468f9d1",
+            "fields":{
+                "lieu_email":"infos@lacompagnieducafetheatre.fr",
+                "lieu_quartier":"Centre-ville",
+                "ville":"Nantes",
+                "media_url":"https://metropole.nantes.fr//banque/public/images/culture/a/7737-1-affiche-ptite-soiree-2020-2021.jpg",
+                "h_lsf":"non",
+                "telephone":"02 40 89 65 01",
+                "libelle_site":"Site internet",
+                "accueil_enfant":"non",
+                "lieu":"Compagnie du Café-Théâtre",
+                "gratuit":"non",
+                "info_suppl":"Représentations du 6 décembre 2020 annulées.",
+                "precisions_tarifs":"10 €BILLETTERIES :- 02 40 89 65 011 (Compagnie du Café-Théâtre)- sur www.nantes-spectacles.com",
+                "url_site":"http://www.nantes-spectacles.com",
+                "lieu_siteweb":"http://www.nantes-spectacles.com",
+                "heure_debut":"15:00",
+                "location":"47.216529801, -1.551371461",
+                "type":"Humour,Théâtre,,,",
+                "h_intellectuel":"non",
+                "lieu_tel":"02 40 89 65 01",
+                "h_psychique":"non",
+                "description":"Les élèves de La Compagnie du Café-Théâtre foulent les planches tous les premiers dimanches de chaque mois pour vous faire découvrir leurs univers lors d’un plateau d’humour à Nantes. Un vrai pari pour eux de se confronter au public et de présenter leur propre sketch. Partez à la découverte des nouvelles pépites de l’humour à Nantes où des comédiens de 6 à 77 ans partagent la scène pour nous faire vivre un moment de pur bonheur !",
+                "emetteur":"VILLE DE NANTES",
+                "adresse":"6 Rue des Carmélites",
+                "rubrique":"Culture",
+                "annule":"non",
+                "date":"2021-02-07",
+                "lien_agenda":"https://metropole.nantes.fr/infonantes/agenda/7737",
+                "h_hyperacousie":"non",
+                "carte_blanche":"non",
+                "code_postal":"44000",
+                "id_manif":"7737",
+                "h_visuel":"non",
+                "h_moteur":"non",
+                "nom":"La p'tite soirée sympa",
+                "libelle_telephone":"Cie du Café-Théâtre",
+                "reporte":"non",
+                "complet":"non",
+                "h_auditif":"non",
+                "organisateurs":"La Compagnie du Café-Théâtre"
+            },
+            "record_timestamp":"2021-01-25T16:00:00+00:00"
+        },
+        {
+            "datasetid":"244400404_agenda-evenements-nantes-nantes-metropole",
+            "recordid":"d90b09e7585f184576a6cc39c3fe9b4c90a48a94",
+            "fields":{
+                "lieu_email":"infos@lacompagnieducafetheatre.fr",
+                "lieu_quartier":"Centre-ville",
+                "ville":"Nantes",
+                "media_url":"https://metropole.nantes.fr//banque/public/images/culture/a/7737-1-affiche-ptite-soiree-2020-2021.jpg",
+                "h_lsf":"non",
+                "telephone":"02 40 89 65 01",
+                "libelle_site":"Site internet",
+                "accueil_enfant":"non",
+                "lieu":"Compagnie du Café-Théâtre",
+                "gratuit":"non",
+                "info_suppl":"Représentations du 6 décembre 2020 annulées.",
+                "precisions_tarifs":"10 €BILLETTERIES :- 02 40 89 65 011 (Compagnie du Café-Théâtre)- sur www.nantes-spectacles.com",
+                "url_site":"http://www.nantes-spectacles.com",
+                "lieu_siteweb":"http://www.nantes-spectacles.com",
+                "heure_debut":"15:00",
+                "location":"47.216529801, -1.551371461",
+                "type":"Humour,Théâtre,,,",
+                "h_intellectuel":"non",
+                "lieu_tel":"02 40 89 65 01",
+                "h_psychique":"non",
+                "description":"Les élèves de La Compagnie du Café-Théâtre foulent les planches tous les premiers dimanches de chaque mois pour vous faire découvrir leurs univers lors d’un plateau d’humour à Nantes. Un vrai pari pour eux de se confronter au public et de présenter leur propre sketch. Partez à la découverte des nouvelles pépites de l’humour à Nantes où des comédiens de 6 à 77 ans partagent la scène pour nous faire vivre un moment de pur bonheur !",
+                "emetteur":"VILLE DE NANTES",
+                "adresse":"6 Rue des Carmélites",
+                "rubrique":"Culture",
+                "annule":"non",
+                "date":"2021-03-07",
+                "lien_agenda":"https://metropole.nantes.fr/infonantes/agenda/7737",
+                "h_hyperacousie":"non",
+                "carte_blanche":"non",
+                "code_postal":"44000",
+                "id_manif":"7737",
+                "h_visuel":"non",
+                "h_moteur":"non",
+                "nom":"La p'tite soirée sympa",
+                "libelle_telephone":"Cie du Café-Théâtre",
+                "reporte":"non",
+                "complet":"non",
+                "h_auditif":"non",
+                "organisateurs":"La Compagnie du Café-Théâtre"
+            },
+            "record_timestamp":"2021-01-25T16:00:00+00:00"
+        },
+        {
+            "datasetid":"244400404_agenda-evenements-nantes-nantes-metropole",
+            "recordid":"d31995709b6721ecad183c3ae8f2d3f10d4735cf",
+            "fields":{
+                "lieu_email":"infos@lacompagnieducafetheatre.fr",
+                "lieu_quartier":"Centre-ville",
+                "ville":"Nantes",
+                "media_url":"https://metropole.nantes.fr//banque/public/images/culture/a/7737-1-affiche-ptite-soiree-2020-2021.jpg",
+                "h_lsf":"non",
+                "telephone":"02 40 89 65 01",
+                "libelle_site":"Site internet",
+                "accueil_enfant":"non",
+                "lieu":"Compagnie du Café-Théâtre",
+                "gratuit":"non",
+                "info_suppl":"Représentations du 6 décembre 2020 annulées.",
+                "precisions_tarifs":"10 €BILLETTERIES :- 02 40 89 65 011 (Compagnie du Café-Théâtre)- sur www.nantes-spectacles.com",
+                "url_site":"http://www.nantes-spectacles.com",
+                "lieu_siteweb":"http://www.nantes-spectacles.com",
+                "heure_debut":"15:00",
+                "location":"47.216529801, -1.551371461",
+                "type":"Humour,Théâtre,,,",
+                "h_intellectuel":"non",
+                "lieu_tel":"02 40 89 65 01",
+                "h_psychique":"non",
+                "description":"Les élèves de La Compagnie du Café-Théâtre foulent les planches tous les premiers dimanches de chaque mois pour vous faire découvrir leurs univers lors d’un plateau d’humour à Nantes. Un vrai pari pour eux de se confronter au public et de présenter leur propre sketch. Partez à la découverte des nouvelles pépites de l’humour à Nantes où des comédiens de 6 à 77 ans partagent la scène pour nous faire vivre un moment de pur bonheur !",
+                "emetteur":"VILLE DE NANTES",
+                "adresse":"6 Rue des Carmélites",
+                "rubrique":"Culture",
+                "annule":"oui",
+                "date":"2020-11-08",
+                "lien_agenda":"https://metropole.nantes.fr/infonantes/agenda/7737",
+                "h_hyperacousie":"non",
+                "carte_blanche":"non",
+                "code_postal":"44000",
+                "id_manif":"7737",
+                "h_visuel":"non",
+                "h_moteur":"non",
+                "nom":"La p'tite soirée sympa",
+                "libelle_telephone":"Cie du Café-Théâtre",
+                "reporte":"non",
+                "complet":"non",
+                "h_auditif":"non",
+                "organisateurs":"La Compagnie du Café-Théâtre"
+            },
+            "record_timestamp":"2021-01-25T16:00:00+00:00"
+        },
+        {
+            "datasetid":"244400404_agenda-evenements-nantes-nantes-metropole",
+            "recordid":"c45f0775431a5ad6b604756197600d387f37b694",
+            "fields":{
+                "lieu_quartier":"Île de Nantes",
+                "ville":"Nantes",
+                "nom":"Aladin, le spectacle musical - par le Théâtre 100 Noms",
+                "h_lsf":"non",
+                "heure_fin":"15:30",
+                "h_psychique":"non",
+                "lieu":"Théâtre 100 Noms",
+                "gratuit":"non",
+                "precisions_tarifs":"12 € à 17 € (hors frais de location éventuels)RÉSERVATIONS : www.theatre100noms.com, 02 28 200 100, au Théâtre 100 Noms (mercredi au dimanche de 14h à 18h)",
+                "lieu_siteweb":"http://theatre100noms.com/",
+                "heure_debut":"14:30",
+                "location":"47.201319, -1.573051",
+                "type":"Enfant,Humour,Théâtre,Spectacle musical,",
+                "complet":"non",
+                "lieu_tel":"02 28 20 01 00",
+                "accueil_enfant":"oui",
+                "description":"Spectacle musical - Jeune public à partir de 5 ansLe plus célèbre conte des Mille et une nuits est ici réadapté dans une version résolument moderne et musicale. Ajoutez un Génie insolite et surprenant, un terrible Vizir sombre et machiavélique, des tours de magie épatants et vous avez tous les ingrédients d’une comédie d’aventure amusante remplie de poursuites, de chansons, de rires et d’émotions. Mais l’amour sera-t il plus fort que le pouvoir? Retrouvez la nouvelle version de ce spectacle musical avec 2 chansons supplémentaires. Ecrit par Clément Pouillot et Franck DuarteMusiques originales : Hervé Devolder (Molière du spectacle musical en 2016 et 2019)Mise en scène : Clément PouillotAvec Stéphane Evans,  Andréas Martin, Régis Mazery, Jérémy SanaghéalDurée : 55 mn.",
+                "emetteur":"VILLE DE NANTES",
+                "adresse":"21 Quai des Antilles - Hangar à Bananes",
+                "rubrique":"Culture",
+                "annule":"oui",
+                "date":"2020-12-22",
+                "lien_agenda":"https://metropole.nantes.fr/infonantes/agenda/21671",
+                "h_hyperacousie":"non",
+                "carte_blanche":"non",
+                "code_postal":"44200",
+                "h_intellectuel":"non",
+                "id_manif":"21671",
+                "h_visuel":"non",
+                "h_moteur":"oui",
+                "precisions_public":"à partir de 5 ans",
+                "reporte":"non",
+                "media_url":"https://metropole.nantes.fr//banque/public/images/culture/a/21671-1-aladin-photo.jpg",
+                "h_auditif":"non"
+            },
+            "record_timestamp":"2021-01-25T16:00:00+00:00"
+        },
+        {
+            "datasetid":"244400404_agenda-evenements-nantes-nantes-metropole",
+            "recordid":"2201ec453526af5a5f2bb12f2f2eb79b525f29c7",
+            "fields":{
+                "lieu_quartier":"Île de Nantes",
+                "ville":"Nantes",
+                "nom":"Aladin, le spectacle musical - par le Théâtre 100 Noms",
+                "h_lsf":"non",
+                "heure_fin":"15:30",
+                "h_psychique":"non",
+                "lieu":"Théâtre 100 Noms",
+                "gratuit":"non",
+                "precisions_tarifs":"12 € à 17 € (hors frais de location éventuels)RÉSERVATIONS : www.theatre100noms.com, 02 28 200 100, au Théâtre 100 Noms (mercredi au dimanche de 14h à 18h)",
+                "lieu_siteweb":"http://theatre100noms.com/",
+                "heure_debut":"14:30",
+                "location":"47.201319, -1.573051",
+                "type":"Enfant,Humour,Théâtre,Spectacle musical,",
+                "complet":"non",
+                "lieu_tel":"02 28 20 01 00",
+                "accueil_enfant":"oui",
+                "description":"Spectacle musical - Jeune public à partir de 5 ansLe plus célèbre conte des Mille et une nuits est ici réadapté dans une version résolument moderne et musicale. Ajoutez un Génie insolite et surprenant, un terrible Vizir sombre et machiavélique, des tours de magie épatants et vous avez tous les ingrédients d’une comédie d’aventure amusante remplie de poursuites, de chansons, de rires et d’émotions. Mais l’amour sera-t il plus fort que le pouvoir? Retrouvez la nouvelle version de ce spectacle musical avec 2 chansons supplémentaires. Ecrit par Clément Pouillot et Franck DuarteMusiques originales : Hervé Devolder (Molière du spectacle musical en 2016 et 2019)Mise en scène : Clément PouillotAvec Stéphane Evans,  Andréas Martin, Régis Mazery, Jérémy SanaghéalDurée : 55 mn.",
+                "emetteur":"VILLE DE NANTES",
+                "adresse":"21 Quai des Antilles - Hangar à Bananes",
+                "rubrique":"Culture",
+                "annule":"non",
+                "date":"2021-02-07",
+                "lien_agenda":"https://metropole.nantes.fr/infonantes/agenda/21671",
+                "h_hyperacousie":"non",
+                "carte_blanche":"non",
+                "code_postal":"44200",
+                "h_intellectuel":"non",
+                "id_manif":"21671",
+                "h_visuel":"non",
+                "h_moteur":"oui",
+                "precisions_public":"à partir de 5 ans",
+                "reporte":"non",
+                "media_url":"https://metropole.nantes.fr//banque/public/images/culture/a/21671-1-aladin-photo.jpg",
+                "h_auditif":"non"
+            },
+            "record_timestamp":"2021-01-25T16:00:00+00:00"
+        },
+        {
+            "datasetid":"244400404_agenda-evenements-nantes-nantes-metropole",
+            "recordid":"f62c39e13f1833ac1783bc451456a43e95784451",
+            "fields":{
+                "lieu_quartier":"Île de Nantes",
+                "ville":"Nantes",
+                "nom":"Le Petit Détournement",
+                "media_url":"https://metropole.nantes.fr//banque/public/images/culture/a/26653-1-affiche-le-petit-detournement.jpg",
+                "h_lsf":"non",
+                "libelle_site":"Site Internet",
+                "h_psychique":"non",
+                "lieu":"Théâtre 100 Noms",
+                "gratuit":"non",
+                "info_suppl":"La séance du 9 décembre 2020 est reportée au 10 mars 2021.",
+                "precisions_tarifs":"10 € à 18 € hors frais de location éventuelsRÉSERVATIONS :- www.theatre100noms.com, 02 28 200 100, au Théâtre 100 Noms (mercredi au dimanche de 14h à 18h)- www.francebillet.com, www.ticketmaster.fr, Fnac, Carrefour, Auchan, Leclerc, Magasins U...",
+                "url_site":"https://theatre100noms.com",
+                "lieu_siteweb":"http://theatre100noms.com/",
+                "heure_debut":"20:15",
+                "location":"47.201319, -1.573051",
+                "type":"Humour,Théâtre,Film / Projection,,",
+                "h_intellectuel":"non",
+                "lieu_tel":"02 28 20 01 00",
+                "accueil_enfant":"non",
+                "description":"Show de doublage improvisé d'extraits de films.4 micros et plusieurs extraits de films : la mission des 4 doubleurs du Petit Détournement est de recréer en direct des dialogues sur des images de films récents, classiques, d'action ou d'auteur, grand public ou de genre... Le Petit Détournement est inspiré par le succès de son illustre prédécesseur : le Grand Détournement, téléfilm français écrit et réalisé en 1993 par Michel Hazanavicius et Dominique Mézerette, racontant la vie inventée d'un John Wayne rebaptisé Georges Abitbol \" l'Homme le plus classe du monde\". A une différence notable près : là où tous les dialogues de ce téléfilm avaient été écrits en amont, nos 4 doubleurs du Petit Détournement vont devoir réaliser la prouesse de réinventer des dialogues de manière totalement improvisée.Durée : 1h30",
+                "emetteur":"VILLE DE NANTES",
+                "adresse":"21 Quai des Antilles - Hangar à Bananes",
+                "rubrique":"Culture",
+                "annule":"non",
+                "date":"2021-06-09",
+                "lien_agenda":"https://metropole.nantes.fr/infonantes/agenda/26653",
+                "h_hyperacousie":"non",
+                "carte_blanche":"non",
+                "code_postal":"44200",
+                "id_manif":"26653",
+                "h_visuel":"non",
+                "h_moteur":"oui",
+                "precisions_public":"Tout public",
+                "reporte":"non",
+                "complet":"non",
+                "h_auditif":"non"
+            },
+            "record_timestamp":"2021-01-25T16:00:00+00:00"
+        },
+        {
+            "datasetid":"244400404_agenda-evenements-nantes-nantes-metropole",
+            "recordid":"986c43aa1ead05d939b68dbaa279e853771c242a",
+            "fields":{
+                "lieu_quartier":"Île de Nantes",
+                "ville":"Nantes",
+                "nom":"Le Grand Trophée d'Or des Magiciens",
+                "h_lsf":"non",
+                "heure_fin":"15:25",
+                "h_psychique":"non",
+                "lieu":"Théâtre 100 Noms",
+                "gratuit":"non",
+                "h_moteur":"oui",
+                "precisions_tarifs":"12 € à 17 € (hors frais de location éventuels) RÉSERVATIONS :www.theatre100noms.com, 02 28 200 100, au Théâtre 100 Noms (mercredi au dimanche de 14h à 18h)",
+                "lieu_siteweb":"http://theatre100noms.com/",
+                "heure_debut":"14:30",
+                "location":"47.201319, -1.573051",
+                "type":"Enfant,Humour,Magie,Cabaret / Revue,",
+                "complet":"non",
+                "lieu_tel":"02 28 20 01 00",
+                "accueil_enfant":"oui",
+                "description":"Spectacle tout public à partir de 3 ans - Magie et chant - Création du Théâtre 100 Noms. Cacahuète, un apprenti magicien, solitaire et grognon, apprend un matin une nouvelle des plus inattendues. Paquêrette, petite fille de Zoltar le grand magicien, vient lui faire don du secret de son grand père… Le chemin vers la clé du succès ! Mais c'est sans compter qu'il doit garder en échange la belle et insouciante Pâquerette comme assistante ! Réussiront-ils ensemble à remporter le Grand Trophée d'or des magiciens ? Avec Sébastien Loiseau et Jessica Naud Auteurs : Clément Pouillot et Olivier Denizet Durée : 55 min.",
+                "emetteur":"VILLE DE NANTES",
+                "adresse":"21 Quai des Antilles - Hangar à Bananes",
+                "date_report":"2021-02-26",
+                "rubrique":"Culture",
+                "annule":"non",
+                "date":"2020-11-15",
+                "lien_agenda":"https://metropole.nantes.fr/infonantes/agenda/28502",
+                "h_hyperacousie":"non",
+                "carte_blanche":"non",
+                "code_postal":"44200",
+                "h_intellectuel":"non",
+                "id_manif":"28502",
+                "h_visuel":"non",
+                "info_suppl":"Représentations du 1er au 29 novembre 2020 reportées du 21 février au 4 mars 2021(plus de renseignements sur les billets déjà en votre possession sur le site du Théâtre 100 Noms)",
+                "reporte":"oui",
+                "media_url":"https://metropole.nantes.fr//banque/public/images/culture/m/28502-1-magicien-trophee-dor.jpg",
+                "h_auditif":"non"
+            },
+            "record_timestamp":"2021-01-25T16:00:00+00:00"
+        },
+        {
+            "datasetid":"244400404_agenda-evenements-nantes-nantes-metropole",
+            "recordid":"5f513f395232d9137eaa25441c114ae32e277162",
+            "fields":{
+                "lieu_quartier":"Île de Nantes",
+                "ville":"Nantes",
+                "nom":"La Troupe du Malin",
+                "h_lsf":"non",
+                "heure_fin":"21:45",
+                "h_psychique":"non",
+                "lieu":"Théâtre 100 Noms",
+                "gratuit":"non",
+                "info_suppl":"Représentation du 21 novembre reportée au 6 mars 2021.",
+                "precisions_tarifs":"10 € à 18 € - hors frais de location éventuelswww.theatre100noms.com, 02 28 200 100, au Théâtre 100 Noms (mercredi au dimanche de 14h à 18h)",
+                "lieu_siteweb":"http://theatre100noms.com/",
+                "heure_debut":"20:15",
+                "location":"47.201319, -1.573051",
+                "type":"Humour,Théâtre,,,",
+                "complet":"non",
+                "lieu_tel":"02 28 20 01 00",
+                "accueil_enfant":"non",
+                "description":"Théâtre d'improvisation. La troupe du Malin, troupe emblématique d’improvisation de la scène nantaise, vous propose cette saison encore 3 matchs d’improvisation avec des équipes exceptionnelles ! Samedi 21 novembre 2020 : Nantes vs Bordeaux / La Troupe du Malin rencontre Les restons calme Samedi 6 mars 2021 : Nantes vs Suisse - La Troupe du Malin rencontre Eva Samedi 15 mai 2021 : Nantes vs Trappes - La Troupe du Malin rencontre Les z’épices Durée : 1h30",
+                "emetteur":"VILLE DE NANTES",
+                "adresse":"21 Quai des Antilles - Hangar à Bananes",
+                "rubrique":"Culture",
+                "annule":"oui",
+                "date":"2020-11-21",
+                "lien_agenda":"https://metropole.nantes.fr/infonantes/agenda/28503",
+                "h_hyperacousie":"non",
+                "carte_blanche":"non",
+                "code_postal":"44200",
+                "h_intellectuel":"non",
+                "id_manif":"28503",
+                "h_visuel":"non",
+                "h_moteur":"oui",
+                "precisions_public":"Tout public",
+                "reporte":"non",
+                "media_url":"https://metropole.nantes.fr//banque/public/images/culture/l/28503-1-la-troupe-du-malin-logo.jpg",
+                "h_auditif":"non"
+            },
+            "record_timestamp":"2021-01-25T16:00:00+00:00"
+        },
+        {
+            "datasetid":"244400404_agenda-evenements-nantes-nantes-metropole",
+            "recordid":"7c89e197f222382cea83612f00f0d03a62277832",
+            "fields":{
+                "lieu_email":"theatre-jeanne@orange.fr",
+                "lieu_quartier":"Bellevue - Chantenay - Sainte-Anne",
+                "ville":"Nantes",
+                "h_lsf":"non",
+                "heure_fin":"15:50",
+                "h_psychique":"non",
+                "lieu":"Théâtre de Jeanne",
+                "gratuit":"non",
+                "info_suppl":"Représentations du 24 avril au 2 mai 2021",
+                "precisions_tarifs":"8 € hors frais de location éventuelsBILLETTERIE :- 06 99 10 76 05 - www.theatre-jeanne.com",
+                "lieu_siteweb":"http://www.theatre-jeanne.com",
+                "heure_debut":"15:00",
+                "location":"47.2046844, -1.5756803",
+                "type":"Enfant,Humour,Théâtre,Magie,",
+                "complet":"non",
+                "lieu_tel":"06 99 10 76 05",
+                "accueil_enfant":"oui",
+                "description":"Spectacle de magie interactif et théâtralisé pour le jeune public à partir de 3 ans.Avec Dalpaz et Marianne - Mise en scène : James HodgesAinsi commence l’histoire…Ce château, aujourd’hui désert, n’était que bruits joyeux de chansons, de rires et de fêtes. Mais un jour, quelqu’un vola la couronne de la si belle et si gentille princesse de ce royaume de contes de fées, lui faisant perdre du même coup son trône et sa grandeur, jetant désolation et oubli sur cette grande demeure que tout le monde a fui, laissant les lieux plus tristes qu’un matin sans ritournelle. Qui donc pourra rendre à l’endroit son faste passé d’antan ?On murmure que seul le possesseur d’un pouvoir magique saurait à nouveau inonder d’étoiles scintillantes le ciel de ce royaume déchu et lui rendre vie… Un être venu de nulle part, d’un lointain pays… Un poète… Un magicien !Rires, suspense et frissons sont au rendez-vous dans ce conte merveilleux à la mise en scène déjantée.Durée : 50 min.",
+                "emetteur":"VILLE DE NANTES",
+                "adresse":"5 Rue des Salorges",
+                "rubrique":"Culture",
+                "annule":"non",
+                "date":"2021-04-25",
+                "lien_agenda":"https://metropole.nantes.fr/infonantes/agenda/32076",
+                "h_hyperacousie":"non",
+                "carte_blanche":"non",
+                "code_postal":"44100",
+                "h_intellectuel":"non",
+                "id_manif":"32076",
+                "h_visuel":"non",
+                "h_moteur":"non",
+                "precisions_public":"à partir de 3 ans",
+                "nom":"Le château magique de Dalpaz",
+                "reporte":"non",
+                "media_url":"https://metropole.nantes.fr//banque/public/images/culture/l/32076-1-le-chateau-magique-de-dalpaz-affiche2.jpg",
+                "h_auditif":"non"
+            },
+            "record_timestamp":"2021-01-25T16:00:00+00:00"
+        },
+        {
+            "datasetid":"244400404_agenda-evenements-nantes-nantes-metropole",
+            "recordid":"40bc1c8cc8365b0d23b0c8f3a5fe3076ca279ce3",
+            "fields":{
+                "lieu_quartier":"Île de Nantes",
+                "ville":"Nantes",
+                "nom":"Le malade imaginaire - par le Théâtre 100 Noms",
+                "media_url":"https://metropole.nantes.fr//banque/public/images/culture/l/32263-1-le-malade-imaginaire-affiche.jpg",
+                "h_lsf":"non",
+                "h_psychique":"non",
+                "lieu":"Théâtre 100 Noms",
+                "gratuit":"non",
+                "precisions_tarifs":"12 € à 22 € (hors frais de location éventuels) RÉSERVATIONS :www.theatre100noms.com, 02 28 200 100, au Théâtre 100 Noms (mercredi au dimanche de 14h à 18h)",
+                "lieu_siteweb":"http://theatre100noms.com/",
+                "heure_debut":"17:15",
+                "location":"47.201319, -1.573051",
+                "type":"Humour,Théâtre,Spectacle musical,Cabaret / Revue,",
+                "h_intellectuel":"non",
+                "lieu_tel":"02 28 20 01 00",
+                "accueil_enfant":"non",
+                "description":"Un cabaret médical de Molière - Création du Théâtre 100 Noms.La dernière pièce écrite par Molière est ici revisitée dans une version moderne et musicale.Si le texte de Molière sera bel et bien au rendez-vous, les comédiens passeront d’un personnage à l’autre, de la chanson à la danse ou des échasses au tissu aérien dans un univers à la croisée du cirque et du music-hall.Entrez dans ce cabaret imaginaire et découvrez en famille cette satire de la médecine habilement menée par 6 artistes pluridisciplinaires.Mise en scène : Clément Pouillot, assisté d'Armonie Coiffard.Avec Anthony Boulc'h, Mickaël Boule, Emmanuelle Burini, Xavier Doizy, Christophe Valerio et Mélanie Vindimian.Durée : 1h35",
+                "emetteur":"VILLE DE NANTES",
+                "adresse":"21 Quai des Antilles - Hangar à Bananes",
+                "rubrique":"Culture",
+                "annule":"non",
+                "date":"2021-01-17",
+                "lien_agenda":"https://metropole.nantes.fr/infonantes/agenda/32263",
+                "h_hyperacousie":"non",
+                "carte_blanche":"non",
+                "code_postal":"44200",
+                "id_manif":"32263",
+                "h_visuel":"non",
+                "h_moteur":"oui",
+                "precisions_public":"Tout public",
+                "reporte":"non",
+                "complet":"non",
+                "h_auditif":"non"
+            },
+            "record_timestamp":"2021-01-25T16:00:00+00:00"
+        }
+    ],
+    "facet_groups":[
+        {
+            "facets":[
+                {
+                    "count":1418,
+                    "path":"Centre-ville",
+                    "state":"displayed",
+                    "name":"Centre-ville"
+                },
+                {
+                    "count":641,
+                    "path":"Malakoff - Saint-Donatien",
+                    "state":"displayed",
+                    "name":"Malakoff - Saint-Donatien"
+                },
+                {
+                    "count":227,
+                    "path":"Île de Nantes",
+                    "state":"displayed",
+                    "name":"Île de Nantes"
+                },
+                {
+                    "count":211,
+                    "path":"Est",
+                    "state":"displayed",
+                    "name":"Est"
+                },
+                {
+                    "count":187,
+                    "path":"Bellevue - Chantenay - Sainte-Anne",
+                    "state":"displayed",
+                    "name":"Bellevue - Chantenay - Sainte-Anne"
+                },
+                {
+                    "count":160,
+                    "path":"Hauts-Pavés - Saint-Félix",
+                    "state":"displayed",
+                    "name":"Hauts-Pavés - Saint-Félix"
+                },
+                {
+                    "count":158,
+                    "path":"Centre",
+                    "state":"displayed",
+                    "name":"Centre"
+                },
+                {
+                    "count":139,
+                    "path":"Hôtel de Ville",
+                    "state":"displayed",
+                    "name":"Hôtel de Ville"
+                },
+                {
+                    "count":31,
+                    "path":"Nantes Nord",
+                    "state":"displayed",
+                    "name":"Nantes Nord"
+                },
+                {
+                    "count":23,
+                    "path":"Château de Rezé",
+                    "state":"displayed",
+                    "name":"Château de Rezé"
+                },
+                {
+                    "count":22,
+                    "path":"Nantes Erdre",
+                    "state":"displayed",
+                    "name":"Nantes Erdre"
+                },
+                {
+                    "count":10,
+                    "path":"Bourg",
+                    "state":"displayed",
+                    "name":"Bourg"
+                },
+                {
+                    "count":6,
+                    "path":"Pont Rousseau",
+                    "state":"displayed",
+                    "name":"Pont Rousseau"
+                },
+                {
+                    "count":4,
+                    "path":"Doulon - Bottière",
+                    "state":"displayed",
+                    "name":"Doulon - Bottière"
+                },
+                {
+                    "count":3,
+                    "path":"Nord",
+                    "state":"displayed",
+                    "name":"Nord"
+                },
+                {
+                    "count":1,
+                    "path":"Dervallières - Zola",
+                    "state":"displayed",
+                    "name":"Dervallières - Zola"
+                }
+            ],
+            "name":"lieu_quartier"
+        },
+        {
+            "facets":[
+                {
+                    "count":2753,
+                    "path":"Nantes",
+                    "state":"displayed",
+                    "name":"Nantes"
+                },
+                {
+                    "count":390,
+                    "path":"Saint-Herblain",
+                    "state":"displayed",
+                    "name":"Saint-Herblain"
+                },
+                {
+                    "count":168,
+                    "path":"Rezé",
+                    "state":"displayed",
+                    "name":"Rezé"
+                },
+                {
+                    "count":75,
+                    "path":"Basse-Goulaine",
+                    "state":"displayed",
+                    "name":"Basse-Goulaine"
+                },
+                {
+                    "count":54,
+                    "path":"Bouguenais",
+                    "state":"displayed",
+                    "name":"Bouguenais"
+                },
+                {
+                    "count":28,
+                    "path":"Saint-Jean-de-Boiseau",
+                    "state":"displayed",
+                    "name":"Saint-Jean-de-Boiseau"
+                },
+                {
+                    "count":15,
+                    "path":"Carquefou",
+                    "state":"displayed",
+                    "name":"Carquefou"
+                },
+                {
+                    "count":14,
+                    "path":"Sainte-Luce-sur-Loire",
+                    "state":"displayed",
+                    "name":"Sainte-Luce-sur-Loire"
+                },
+                {
+                    "count":13,
+                    "path":"La Chapelle-sur-Erdre",
+                    "state":"displayed",
+                    "name":"La Chapelle-sur-Erdre"
+                },
+                {
+                    "count":10,
+                    "path":"Couëron",
+                    "state":"displayed",
+                    "name":"Couëron"
+                },
+                {
+                    "count":7,
+                    "path":"Saint-Sébastien-sur-Loire",
+                    "state":"displayed",
+                    "name":"Saint-Sébastien-sur-Loire"
+                },
+                {
+                    "count":5,
+                    "path":"Indre",
+                    "state":"displayed",
+                    "name":"Indre"
+                },
+                {
+                    "count":2,
+                    "path":"Sautron",
+                    "state":"displayed",
+                    "name":"Sautron"
+                }
+            ],
+            "name":"ville"
+        },
+        {
+            "facets":[
+                {
+                    "count":3541,
+                    "path":"Culture",
+                    "state":"refined",
+                    "name":"Culture"
+                }
+            ],
+            "name":"rubrique"
+        },
+        {
+            "facets":[
+                {
+                    "count":2126,
+                    "path":"VILLE DE NANTES",
+                    "state":"displayed",
+                    "name":"VILLE DE NANTES"
+                },
+                {
+                    "count":551,
+                    "path":"CULTURE",
+                    "state":"displayed",
+                    "name":"CULTURE"
+                },
+                {
+                    "count":236,
+                    "path":"PATRIMOINE",
+                    "state":"displayed",
+                    "name":"PATRIMOINE"
+                },
+                {
+                    "count":202,
+                    "path":"VILLE DE SAINT HERBLAIN",
+                    "state":"displayed",
+                    "name":"VILLE DE SAINT HERBLAIN"
+                },
+                {
+                    "count":139,
+                    "path":"CHRONOGRAPHE",
+                    "state":"displayed",
+                    "name":"CHRONOGRAPHE"
+                },
+                {
+                    "count":120,
+                    "path":"DEVELOPPEMENT ASSOCIATIF",
+                    "state":"displayed",
+                    "name":"DEVELOPPEMENT ASSOCIATIF"
+                },
+                {
+                    "count":78,
+                    "path":"VILLE DE BASSE-GOULAINE",
+                    "state":"displayed",
+                    "name":"VILLE DE BASSE-GOULAINE"
+                },
+                {
+                    "count":32,
+                    "path":"VILLE DE SAINT JEAN DE BOISEAU",
+                    "state":"displayed",
+                    "name":"VILLE DE SAINT JEAN DE BOISEAU"
+                },
+                {
+                    "count":19,
+                    "path":"VILLE DE BOUGUENAIS",
+                    "state":"displayed",
+                    "name":"VILLE DE BOUGUENAIS"
+                },
+                {
+                    "count":15,
+                    "path":"BIBLIOTHEQUE DE NANTES",
+                    "state":"displayed",
+                    "name":"BIBLIOTHEQUE DE NANTES"
+                },
+                {
+                    "count":12,
+                    "path":"STEREOLUX",
+                    "state":"displayed",
+                    "name":"STEREOLUX"
+                },
+                {
+                    "count":6,
+                    "path":"VILLE DE SAINT SEBASTIEN SUR LOIRE",
+                    "state":"displayed",
+                    "name":"VILLE DE SAINT SEBASTIEN SUR LOIRE"
+                },
+                {
+                    "count":2,
+                    "path":"VILLE DE CARQUEFOU",
+                    "state":"displayed",
+                    "name":"VILLE DE CARQUEFOU"
+                },
+                {
+                    "count":2,
+                    "path":"VILLE DE SAUTRON",
+                    "state":"displayed",
+                    "name":"VILLE DE SAUTRON"
+                },
+                {
+                    "count":1,
+                    "path":"LES FABRIQUES",
+                    "state":"displayed",
+                    "name":"LES FABRIQUES"
+                }
+            ],
+            "name":"emetteur"
+        }
+    ]
+}

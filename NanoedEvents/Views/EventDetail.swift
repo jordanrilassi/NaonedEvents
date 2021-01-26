@@ -1,5 +1,5 @@
 //
-//  LandmarkDetail.swift
+//  EventDetail.swift
 //  NanoedEvents
 //
 //  Created by Jordan Rilassi on 21/01/2021.
@@ -7,47 +7,47 @@
 
 import SwiftUI
 
-struct LandmarkDetail: View {
-    var landmark: Landmark
+struct EventDetail: View {
+    var event: Event
     
     var body: some View {
         ScrollView {
-            MapView(coordinate: landmark.locationCoordinate)
+            MapView(coordinate: event.locationCoordinate)
                         .ignoresSafeArea(edges: .top)
                         .frame(height: 300)
 
-            CircleImage(image: landmark.image)
+            CircleImage(image: event.image)
                         .offset(y: -130)
                         .padding(.bottom, -130)
 
                     VStack(alignment: .leading) {
-                        Text(landmark.name)
+                        Text(event.name)
                             .font(.title)
                             .foregroundColor(.primary)
 
                         HStack {
-                            Text(landmark.park)
+                            Text(event.park)
                             Spacer()
-                            Text(landmark.state)
+                            Text(event.state)
                         }
                         .font(.subheadline)
                         .foregroundColor(.secondary)
 
                         Divider()
 
-                        Text("About \(landmark.name)")
+                        Text("About \(event.name)")
                             .font(.title2)
-                        Text(landmark.description)
+                        Text(event.description)
                     }
                     .padding()
         }
-        .navigationTitle(landmark.name)
+        .navigationTitle(event.name)
         .navigationBarTitleDisplayMode(.inline)
     }
 }
 
-struct LandmarkDetail_Previews: PreviewProvider {
+struct EventDetail_Previews: PreviewProvider {
     static var previews: some View {
-        LandmarkDetail(landmark: landmarks[0])
+        EventDetail(event: events[0])
     }
 }
