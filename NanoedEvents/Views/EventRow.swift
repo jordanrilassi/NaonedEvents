@@ -6,15 +6,19 @@
 //
 
 import SwiftUI
+import SwURL
 
 struct EventRow: View {
-    var event: Event
+    var event: Event 
     
     var body: some View {
         HStack {
-            event.image
-                .resizable()
-                .frame(width: 50, height: 50)
+            RemoteImageView(
+                url: event.imageUrl,
+                            placeholderImage: Image.init("placeholder"),
+                            transition: .custom(transition: .opacity, animation: .easeOut(duration: 0.5))
+                        )
+            .frame(width: 50, height: 50)
             Text(event.name)
             
             Spacer()

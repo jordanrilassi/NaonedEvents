@@ -16,9 +16,13 @@ struct Event: Hashable, Codable, Identifiable {
     var state: String
     var description: String
     
-    private var imageName: String?
+    private var mediaUrl: String
+    var imageUrl: URL {
+        return URL(string: mediaUrl)!
+    }
     var image: Image {
-        Image(imageName ?? "")
+//        guard let imageUrlData = imageUrl.data(using: .utf8), let uiImage = UIImage(data: imageUrlData) else { return Image("") }
+        return Image("")
     }
     
     var locationCoordinate: CLLocationCoordinate2D {
@@ -43,7 +47,7 @@ struct Event: Hashable, Codable, Identifiable {
         case park = "adresse"
         case state = "rubrique"
         case description
-        case imageName = "media_url2"
+        case mediaUrl = "media_url"
         case location
     }
 }

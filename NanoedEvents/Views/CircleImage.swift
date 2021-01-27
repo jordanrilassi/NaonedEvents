@@ -6,12 +6,17 @@
 //
 
 import SwiftUI
+import SwURL
 
 struct CircleImage: View {
-    var image: Image
+    var imageUrl: URL
     
     var body: some View {
-        image
+        RemoteImageView(
+            url: imageUrl,
+                        placeholderImage: Image.init("placeholder"),
+                        transition: .custom(transition: .opacity, animation: .easeOut(duration: 0.5))
+                    )
             .clipShape(Circle())
             .overlay(Circle().stroke(Color.white, lineWidth: 4))
             .shadow(radius: 7)
@@ -20,6 +25,6 @@ struct CircleImage: View {
 
 struct CircleImage_Previews: PreviewProvider {
     static var previews: some View {
-        CircleImage(image: Image("turtlerock"))
+        CircleImage(imageUrl: URL(string: "https://metropole.nantes.fr//banque/public/images/culture/a/7737-1-affiche-ptite-soiree-2020-2021.jpg")!)
     }
 }

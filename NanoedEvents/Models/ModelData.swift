@@ -6,11 +6,13 @@
 //
 
 import Foundation
+import SwURL
 
 var events: [Event] = load("eventsData.json")
 var eventsData: EventsData = load("realEventsData.json")
 
 var naonedEvents: [Event] {
+    SwURLDebug.loggingEnabled = true
     return eventsData.records.map { $0.fields }
 }
 

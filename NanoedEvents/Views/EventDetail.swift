@@ -16,7 +16,7 @@ struct EventDetail: View {
                         .ignoresSafeArea(edges: .top)
                         .frame(height: 300)
 
-            CircleImage(image: event.image)
+            CircleImage(imageUrl: event.imageUrl)
                         .offset(y: -130)
                         .padding(.bottom, -130)
 

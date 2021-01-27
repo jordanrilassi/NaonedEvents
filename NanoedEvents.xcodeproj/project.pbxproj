@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -21,6 +21,7 @@
 		D90EE1F525B9DADC00EB558B /* EventDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = D90EE1F425B9DADC00EB558B /* EventDetail.swift */; };
 		D9C4E80D25C0531D0042CBA8 /* eventsData.json in Resources */ = {isa = PBXBuildFile; fileRef = D9C4E80C25C0531D0042CBA8 /* eventsData.json */; };
 		D9C4E81125C056780042CBA8 /* realEventsData.json in Resources */ = {isa = PBXBuildFile; fileRef = D9C4E81025C056770042CBA8 /* realEventsData.json */; };
+		D9C4E82025C168740042CBA8 /* SwURL in Frameworks */ = {isa = PBXBuildFile; productRef = D9C4E81F25C168740042CBA8 /* SwURL */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +48,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9C4E82025C168740042CBA8 /* SwURL in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,6 +141,9 @@
 			dependencies = (
 			);
 			name = NanoedEvents;
+			packageProductDependencies = (
+				D9C4E81F25C168740042CBA8 /* SwURL */,
+			);
 			productName = NanoedEvents;
 			productReference = D90EE1A825B9BEAF00EB558B /* NanoedEvents.app */;
 			productType = "com.apple.product-type.application";
@@ -166,6 +171,9 @@
 				Base,
 			);
 			mainGroup = D90EE19F25B9BEAF00EB558B;
+			packageReferences = (
+				D9C4E81E25C168740042CBA8 /* XCRemoteSwiftPackageReference "SwURL" */,
+			);
 			productRefGroup = D90EE1A925B9BEAF00EB558B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -392,6 +400,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D9C4E81E25C168740042CBA8 /* XCRemoteSwiftPackageReference "SwURL" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/cmtrounce/SwURL";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.4.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		D9C4E81F25C168740042CBA8 /* SwURL */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D9C4E81E25C168740042CBA8 /* XCRemoteSwiftPackageReference "SwURL" */;
+			productName = SwURL;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = D90EE1A025B9BEAF00EB558B /* Project object */;
 }
